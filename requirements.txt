@@ -1,0 +1,5 @@
+python-telegram-bot==21.5          # или твоя версия, последняя стабильная
+flask==3.0.3                       # если используешь Flask для webhook
+# или если aiogram:
+# aiogram==3.13.1
+# aiohttp==3.9.5
